@@ -1,2 +1,2 @@
-/*/*.env
-/test_project/migrations/*
+*.env
+migrations/
